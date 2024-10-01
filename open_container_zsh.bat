@@ -1,0 +1,1 @@
+docker compose exec -it ubuntu-24-10 zsh

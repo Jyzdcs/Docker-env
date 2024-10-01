@@ -1,0 +1,1 @@
+.\create_42env.bat && .\open_container_zsh.bat

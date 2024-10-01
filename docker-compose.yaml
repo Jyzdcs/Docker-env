@@ -1,0 +1,5 @@
+services:
+  ubuntu-24-10:
+    build: .
+    volumes:
+      - "./workspace:/workspace"
