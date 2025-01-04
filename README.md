@@ -22,7 +22,7 @@ Utiliser un conteneur Docker est plus avantageux qu'une machine virtuelle (VM) c
 3. Clonez ce projet sur votre machine :
 
 ```bash 
-git clone https://github.com/maliksynt/42-env-ubuntu.git
+git clone https://github.com/Jyzdcs/Docker-env.git
 
 cd .\42-env-ubuntu\
 ```
